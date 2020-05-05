@@ -1,0 +1,24 @@
+-          Beyond Comare (http://www.scootersoftware.com/)
+
+-          License name: GumiViet
+
+-          Operating System: MAC OS/X
+
+-          License text: (You should copy the whole text below, from --- BEGIN to  --- END
+
+--- BEGIN LICENSE KEY ---
+
+q-uWixtr44soLFuzsLvAY3IZBCMcxDew8f7ZE30LgjozPvCV+rMIbnMZB
+
+RW+QtfPpUch9AInjkPuWHi4EV0O26jBfZT1XSqmYCt05rP0Z2upIabpMW
+
+A6ergNI94PbECsR3N37zs7wu0pjDkd1zHyAlZFWO3EPmpHnWEgQpShKEN
+
+qRqcab+kTVQfUA0WjwkJorZzFWcXU+kVITYuXKecxakLyVjbLfMnnHYGp
+
+S+tzQ9G1qd7xt9i83eDGGJtxUcszPjfPUipR+tos++A1fmtkLx86BZ3sv
+
+IqgNZGCUZhDAuBr+jtRL3Ewdtv7S-QlKXizU0Dan6NnljTIWk0AWAHsGE
+
+--- END LICENSE KEY -----
+
